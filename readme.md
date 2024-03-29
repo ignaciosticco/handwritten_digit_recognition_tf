@@ -1,0 +1,1 @@
+In this repo I play a little with a handwritten digit recognition done with TensorFlow
